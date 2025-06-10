@@ -47,7 +47,6 @@ So far, we've got:
 
 ## 📸 Sneak Peek
 
-> Add a screenshot later once you've finalized a major section!
-
-```md
 ![Apple Site Clone Screenshot](./image/Screenshot.png)
+```md
+
