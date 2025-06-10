@@ -1,6 +1,10 @@
 # 🍎 Apple Site Clone – In Progress
 
-Howdy! Welcome to the repo for my Apple-inspired site – a pixel-perfect, front-end clone in the making. This project is all about replicating the elegance, smooth animations, and modern UI style you'd expect from a brand like Apple… but built entirely from scratch using clean HTML, CSS (Tailwind), and JavaScript.
+## 📸 Sneak Peek
+
+![Apple Site Clone Screenshot](./image/Screenshot.png)
+
+Hey! Welcome to the repo for my Apple-inspired site – a pixel-perfect, front-end clone in the making. This project is all about replicating the elegance, smooth animations, and modern UI style you'd expect from a brand like Apple… but built entirely from scratch using clean HTML, CSS (Tailwind), and JavaScript.
 
 ---
 
@@ -45,8 +49,6 @@ So far, we've got:
 
 ---
 
-## 📸 Sneak Peek
 
-![Apple Site Clone Screenshot](./image/Screenshot.png)
 ```md
 
